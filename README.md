@@ -1,6 +1,6 @@
 # FilmRank
 
-> Часть портфолио: [сайт-портфолио](https://auryxn.github.io) — репозиторий сайта [site-admin](https://github.com/auryxn/site-admin).
+> Часть портфолио: [сайт-портфолио](https://auryxn.github.io/site-admin/) — репозиторий сайта [site-admin](https://github.com/auryxn/site-admin).
 
 > Личный рейтинг фильмов и сериалов: свайпы в стиле Tinder + ранжирование на дуэлях.
 
